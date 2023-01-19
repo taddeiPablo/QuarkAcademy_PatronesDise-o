@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,7 +16,6 @@ namespace ConversorMoneda
     public partial class Form1 : Form
     {
         private Subject sujeto;
-        private PesoArgObservador pArgObservador;
         private DolarEeuuObservador DEEUUObservador;
         private RealBrasilObservador RBObservador;
         private YenJaponesObservador YJaponesObservador;
@@ -28,6 +28,7 @@ namespace ConversorMoneda
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //IMPLEMENTANDO EL PATRON DE DISEÑO
             sujeto = new Subject();
             DEEUUObservador = new DolarEeuuObservador(sujeto);
             RBObservador = new RealBrasilObservador(sujeto);
@@ -37,11 +38,22 @@ namespace ConversorMoneda
 
         private void txtPeso_TextChanged(object sender, EventArgs e)
         {
-            sujeto.Estado = Convert.ToDouble(txtPeso.Text);
-            lblDolar.Text = string.Format("#.#", Convert.ToString(DEEUUObservador.Result));
-            lblReal.Text = string.Format("#.#", Convert.ToString(RBObservador.Result));
-            lblYen.Text = string.Format("#.#", Convert.ToString(YJaponesObservador.Result));
-            lblYuan.Text = string.Format("#.#", Convert.ToString(YNChinoObservador.Result));
+            if (txtPeso.Text != "" && txtPeso.Text != "," && txtPeso.Text != ".")
+            {
+                sujeto.Estado = Double.Parse(txtPeso.Text.Replace(',', '.'), CultureInfo.GetCultureInfo("en-US"));
+                lblDolar.Text = string.Format("{0:0.##}", Convert.ToString(DEEUUObservador.Result));
+                lblReal.Text = string.Format("{0:0.##}", Convert.ToString(RBObservador.Result));
+                lblYen.Text = string.Format("{0:0.##}", Convert.ToString(YJaponesObservador.Result));
+                lblYuan.Text = string.Format("{0:0.##}", Convert.ToString(YNChinoObservador.Result));
+            }
+        }
+
+        private void txtPeso_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (!(char.IsNumber(e.KeyChar)) && (e.KeyChar != (char)Keys.Back))
+            {
+                txtPeso.Text = "";
+            }
         }
     }
 }

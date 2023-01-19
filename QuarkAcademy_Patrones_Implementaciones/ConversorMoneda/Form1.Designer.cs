@@ -75,6 +75,7 @@ namespace ConversorMoneda
             this.txtPeso.Size = new System.Drawing.Size(165, 20);
             this.txtPeso.TabIndex = 2;
             this.txtPeso.TextChanged += new System.EventHandler(this.txtPeso_TextChanged);
+            this.txtPeso.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPeso_KeyPress);
             // 
             // groupBox1
             // 

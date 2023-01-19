@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversorMoneda", "Converso
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverLibrary", "ObserverLibrary\ObserverLibrary.csproj", "{0988ED73-5D0C-4D21-ADD2-4E7380214FE9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PatronObserver", "PatronObserver", "{6135163D-9CD9-4A43-A43F-4B39465A161C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{532CC47C-B70A-4B9B-A84B-DB65553F2D6F} = {6135163D-9CD9-4A43-A43F-4B39465A161C}
+		{0988ED73-5D0C-4D21-ADD2-4E7380214FE9} = {6135163D-9CD9-4A43-A43F-4B39465A161C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F970FA5B-DC59-4424-B546-BFF1F2778F48}

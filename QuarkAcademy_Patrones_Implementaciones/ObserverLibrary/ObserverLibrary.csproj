@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="ObserverLibrary\DolarEeuuObservador.cs" />
     <Compile Include="ObserverLibrary\Observador.cs" />
-    <Compile Include="ObserverLibrary\PesoArgObservador.cs" />
     <Compile Include="ObserverLibrary\RealBrasilObservador.cs" />
     <Compile Include="ObserverLibrary\Subject.cs" />
     <Compile Include="ObserverLibrary\YenJaponesObservador.cs" />
