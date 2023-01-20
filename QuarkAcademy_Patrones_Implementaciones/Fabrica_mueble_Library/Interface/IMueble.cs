@@ -8,6 +8,7 @@ namespace Fabrica_mueble_Library.Interface
 {
     public interface IMueble
     {
+        void Construir();
 
     }
 }
