@@ -1,0 +1,10 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\bin\Debug\Factory_Muebles.exe.config
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\bin\Debug\Factory_Muebles.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\bin\Debug\Factory_Muebles.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.Form1.resources
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.Properties.Resources.resources
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.csproj.GenerateResource.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.pdb
