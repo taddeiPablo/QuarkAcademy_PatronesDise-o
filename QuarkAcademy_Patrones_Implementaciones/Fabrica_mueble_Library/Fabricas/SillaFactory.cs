@@ -11,20 +11,21 @@ namespace Fabrica_mueble_Library.Fabricas
     public class SillaFactory : IAbstractFactory
     {
         private IMueble NuevoMueble;
+        //private string directory = @"QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Fabrica_mueble_Library\images\";
 
         public IMueble getSilla(string tipo)
         {
             if (tipo == "Art Deco")
             {
-                NuevoMueble = new Silla("", tipo, "50cm", "50cm", "30cm");
+                NuevoMueble = new Silla("Art", tipo, "50cm", "50cm", "30cm", "");
             }
             if (tipo == "victoriana")
             {
-                NuevoMueble = new Silla("",tipo,"","","");
+                NuevoMueble = new Silla("Art",tipo,"60cm","60cm","40cm","");
             }
             if (tipo == "moderna")
             {
-                NuevoMueble = new Silla("",tipo,"","","");
+                NuevoMueble = new Silla("Art",tipo,"40cm","50cm","35cm","");
             }
             return NuevoMueble;
         }
