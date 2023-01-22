@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,27 +15,37 @@ namespace Fabrica_mueble_Library.Muebles
         private string ancho;
         private string profundidad;
         private string tipo_material;
-        private string urlImage;
 
+        private StringBuilder strBuilder;
+
+        [DisplayName("Marca")]
         public string Marca { get => marca; set => marca = value; }
+        [DisplayName("Modelo")]
         public string Modelo { get => modelo; set => modelo = value; }
+        [DisplayName("Ancho")]
         public string Ancho { get => ancho; set => ancho = value; }
+        [DisplayName("Profundidad")]
         public string Profundidad { get => profundidad; set => profundidad = value; }
+        [DisplayName("Tipo de Material")]
         public string Tipo_material { get => tipo_material; set => tipo_material = value; }
 
-        public Silla(string marca, string modelo, string ancho, string profundidad, string tipoMaterial, string url)
+        public Silla(string marca, string modelo, string ancho, string profundidad, string tipoMaterial)
         {
             this.marca = marca;
             this.modelo = modelo;
             this.ancho = ancho;
             this.profundidad = profundidad;
             this.tipo_material = tipoMaterial;
-            this.urlImage = url;
+            strBuilder = new StringBuilder();
+        }
+        public override string ToString()
+        {
+            return strBuilder.ToString();
         }
 
-        public void Construir()
+        public void Visualizar()
         {
-            throw new NotImplementedException();
+            strBuilder.Append("Silla : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
         }
     }
 }

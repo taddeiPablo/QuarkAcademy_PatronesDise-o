@@ -17,19 +17,19 @@ namespace Fabrica_mueble_Library.Fabricas
         {
             if (tipo == "Art Deco")
             {
-                NuevoMueble = new Mesilla("", tipo, "", "", "");
+                NuevoMueble = new Mesilla("Nuevo", tipo, "50cm", "70cm", "90cm");
             }
-            if (tipo == "victoriano")
+            else if (tipo == "victoriana")
             {
-                NuevoMueble = new Mesilla("",tipo,"","","");
+                NuevoMueble = new Mesilla("Arg",tipo,"80cm","90cm","30cm");
             }
-            if (tipo == "moderno")
+            else if (string.Equals(tipo, "Moderna"))
             {
-                NuevoMueble = new Mesilla("", tipo, "","","");
+                NuevoMueble = new Mesilla("BR", tipo, "70cm","70cm","50cm");
             }
             return NuevoMueble;
         }
-
+        #region metodos que no se  implementan en esta fabrica
         public IMueble getSilla(string tipo)
         {
             throw new NotImplementedException();
@@ -39,5 +39,6 @@ namespace Fabrica_mueble_Library.Fabricas
         {
             throw new NotImplementedException();
         }
+        #endregion
     }
 }

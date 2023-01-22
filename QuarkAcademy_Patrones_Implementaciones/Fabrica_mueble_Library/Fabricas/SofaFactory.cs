@@ -16,19 +16,20 @@ namespace Fabrica_mueble_Library.Fabricas
         {
             if (tipo == "Art Deco")
             {
-                NuevoMueble = new Sofa("", tipo, "", "", "");
+                NuevoMueble = new Sofa("Arg", tipo, "80cm", "90cm", "30cm");
             }
-            if (tipo == "victoriano")
+            else if (tipo == "victoriana")
             {
-                NuevoMueble = new Sofa("", tipo, "", "", "");
+                NuevoMueble = new Sofa("Antiguo", tipo, "80cm", "90cm", "30cm");
             }
-            if (tipo == "moderno")
+            else if (string.Equals(tipo, "Moderna"))
             {
-                NuevoMueble = new Sofa("", tipo, "","","");
+                NuevoMueble = new Sofa("Arte", tipo, "70cm","80cm","40cm");
             }
             return NuevoMueble;
         }
 
+        #region metodos que no se implementan en esta fabrica
         public IMueble getSilla(string tipo)
         {
             throw new NotImplementedException();
@@ -38,5 +39,6 @@ namespace Fabrica_mueble_Library.Fabricas
         {
             throw new NotImplementedException();
         }
+        #endregion
     }
 }

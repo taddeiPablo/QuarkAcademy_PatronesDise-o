@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fabricas\FabricaDeMuebles.cs" />
     <Compile Include="Fabricas\MesillaFactory.cs" />
     <Compile Include="Fabricas\SillaFactory.cs" />
     <Compile Include="Fabricas\SofaFactory.cs" />
@@ -52,16 +53,5 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
-  <ItemGroup>
-    <Content Include="images\mesitaArtDeco.jpg" />
-    <Content Include="images\mesitamoderna.jpg" />
-    <Content Include="images\mesitaVictoriana.png" />
-    <Content Include="images\silla ArtDeco.jpg" />
-    <Content Include="images\silla moderna.jpg" />
-    <Content Include="images\silla victoriana.jpg" />
-    <Content Include="images\sofa artdeco.jpg" />
-    <Content Include="images\sofa moderno.jpg" />
-    <Content Include="images\sofa victoriano.jpg" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
