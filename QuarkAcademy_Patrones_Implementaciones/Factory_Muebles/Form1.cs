@@ -21,17 +21,15 @@ namespace Factory_Muebles
         private IAbstractFactory fabricaMuebles;
         private IMueble productoTerminado;
         private List<IMueble> Listado_de_Muebles;
-        private BindingList<IMueble> bLista;
         public Form1()
         {
             InitializeComponent();
-            FdeMuebles = FabricaDeMuebles.getInstance();
+            FdeMuebles = new FabricaDeMuebles();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             Listado_de_Muebles = new List<IMueble>();
-            bLista = new BindingList<IMueble>();
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

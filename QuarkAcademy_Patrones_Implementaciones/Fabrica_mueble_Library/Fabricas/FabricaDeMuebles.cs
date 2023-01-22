@@ -11,41 +11,23 @@ namespace Fabrica_mueble_Library.Fabricas
 {
     public class FabricaDeMuebles
     {
-        private static FabricaDeMuebles _instance;
         private IAbstractFactory absFactory;
-
-        public static FabricaDeMuebles getInstance()
-        {
-            if (_instance == null)
-            {
-                _instance = new FabricaDeMuebles();
-            }
-            return _instance;
-        }
-
         public IAbstractFactory getFactory(string factory)
         {
             if (factory == "silla")
             {
-                absFactory = new SillaFactory();
+                absFactory = SillaFactory.getInstance();
             }
             if (factory == "sofa")
             {
-                absFactory = new SofaFactory();
+                absFactory = SofaFactory.GetInstance();
             }
             if (factory == "mesilla")
             {
-                absFactory = new MesillaFactory();
+                absFactory = MesillaFactory.getInstance();
             }
 
             return absFactory;
         }
-
-        public override string ToString()
-        {
-            return "Items";
-        }
-
-
     }
 }
