@@ -10,3 +10,4 @@ C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrone
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.pdb
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\bin\Debug\Fabrica_mueble_Library.pdb
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\obj\Debug\Factory_Muebles.csproj.CopyComplete
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\Factory_Muebles\bin\Debug\Fabrica_mueble_Library.dll
