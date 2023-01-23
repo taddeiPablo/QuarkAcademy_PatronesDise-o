@@ -16,15 +16,15 @@ namespace Fabrica_mueble_Library.Fabricas
         {
             if (factory == "silla")
             {
-                absFactory = SillaFactory.getInstance();
+                absFactory = new SillaFactory();
             }
             if (factory == "sofa")
             {
-                absFactory = SofaFactory.GetInstance();
+                absFactory = new SofaFactory();
             }
             if (factory == "mesilla")
             {
-                absFactory = MesillaFactory.getInstance();
+                absFactory = new MesillaFactory();
             }
 
             return absFactory;

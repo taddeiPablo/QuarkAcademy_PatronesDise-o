@@ -10,20 +10,7 @@ namespace Fabrica_mueble_Library.Fabricas
 {
     public class SofaFactory : IAbstractFactory
     {
-        private static SofaFactory _instance;
         private IMueble NuevoMueble;
-
-        private SofaFactory() { }
-
-        public static SofaFactory GetInstance()
-        {
-            if (_instance == null)
-            {
-                _instance = new SofaFactory();
-            }
-            return _instance;
-        }
-
         public IMueble getSofa(string tipo)
         {
             if (tipo == "Art Deco")

@@ -45,7 +45,8 @@ namespace Fabrica_mueble_Library.Muebles
 
         public void Visualizar()
         {
-            strBuilder.Append("Silla : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
+            if (strBuilder.Length == 0)
+                strBuilder.Append("Silla : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
         }
     }
 }

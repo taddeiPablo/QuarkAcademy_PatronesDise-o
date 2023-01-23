@@ -48,7 +48,8 @@ namespace Fabrica_mueble_Library.Muebles
 
         public void Visualizar()
         {
-            strBuilder.Append("Sofa : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
+            if (strBuilder.Length == 0)
+                strBuilder.Append("Sofa : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
         }
     }
 }

@@ -72,6 +72,7 @@ namespace Factory_Muebles
 
         private void CargarListado()
         {
+            listBox1.Items.Clear();
             foreach (IMueble item in Listado_de_Muebles)
             {
                 item.Visualizar();

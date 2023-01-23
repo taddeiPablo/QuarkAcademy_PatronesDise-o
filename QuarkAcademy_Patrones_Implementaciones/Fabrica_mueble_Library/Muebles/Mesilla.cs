@@ -47,7 +47,8 @@ namespace Fabrica_mueble_Library.Muebles
 
         public void Visualizar()
         {
-            strBuilder.Append("Mesita : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
+            if (strBuilder.Length == 0)
+                strBuilder.Append("Mesita : " + marca + " | " + modelo + " | " + ancho + " | " + profundidad + " | " + tipo_material + " | ");
         }
     }
 }

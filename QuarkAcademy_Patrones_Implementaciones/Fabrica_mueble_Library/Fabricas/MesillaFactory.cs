@@ -11,20 +11,7 @@ namespace Fabrica_mueble_Library.Fabricas
 {
     public class MesillaFactory : IAbstractFactory
     {
-        private static MesillaFactory _instance;
         private IMueble NuevoMueble;
-
-        private MesillaFactory() { }
-
-        public static MesillaFactory getInstance()
-        {
-            if (_instance == null)
-            {
-                _instance = new MesillaFactory();
-            }
-            return _instance;
-        }
-
         public IMueble getMesilla(string tipo)
         {
             if (tipo == "Art Deco")

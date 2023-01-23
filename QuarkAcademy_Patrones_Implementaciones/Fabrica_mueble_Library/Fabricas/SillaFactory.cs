@@ -10,18 +10,7 @@ namespace Fabrica_mueble_Library.Fabricas
 {
     public class SillaFactory : IAbstractFactory
     {
-        private static SillaFactory _instance;
         private IMueble NuevoMueble;
-        private SillaFactory() { }
-        public static SillaFactory getInstance()
-        {
-            if (_instance == null)
-            {
-                _instance = new SillaFactory();
-            }
-            return _instance;
-        }
-
         public IMueble getSilla(string tipo)
         {
             if (tipo == "Art Deco")
