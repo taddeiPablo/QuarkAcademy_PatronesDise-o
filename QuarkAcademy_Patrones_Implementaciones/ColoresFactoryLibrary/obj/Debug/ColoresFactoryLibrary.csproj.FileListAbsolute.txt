@@ -1,0 +1,11 @@
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\bin\Debug\ColoresFactoryLibrary.dll
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\bin\Debug\ColoresFactoryLibrary.pdb
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.dll
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\bin\Debug\ColoresFactoryLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\bin\Debug\ColoresFactoryLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ColoresFactoryLibrary\obj\Debug\ColoresFactoryLibrary.pdb
