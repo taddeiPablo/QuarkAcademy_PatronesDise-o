@@ -1,0 +1,13 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\bin\Debug\DiscograficaBuilder.exe.config
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\bin\Debug\DiscograficaBuilder.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\bin\Debug\DiscograficaBuilder.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.Form1.resources
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.Properties.Resources.resources
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.csproj.GenerateResource.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\bin\Debug\DiscograficaBuilderLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\bin\Debug\DiscograficaBuilderLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\DiscograficaBuilder\obj\Debug\DiscograficaBuilder.csproj.CopyComplete

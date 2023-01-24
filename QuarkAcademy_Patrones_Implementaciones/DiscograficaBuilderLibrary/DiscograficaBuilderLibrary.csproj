@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EAE0A77A-2705-4B60-AB10-E065E0AC23EC}</ProjectGuid>
+    <ProjectGuid>{E688D929-1CC4-453C-A8AB-572B80DE3435}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AutomovilesBuilderLibrary</RootNamespace>
-    <AssemblyName>AutomovilesBuilderLibrary</AssemblyName>
+    <RootNamespace>DiscograficaBuilderLibrary</RootNamespace>
+    <AssemblyName>DiscograficaBuilderLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,13 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="abstracts\AutomovilBuilder.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="Builder\IMaterialDiscograficoBuilder.cs" />
+    <Compile Include="Builder\MaterialDiscograficoBuilder.cs" />
+    <Compile Include="Entidades\Autor.cs" />
+    <Compile Include="Entidades\Cancion.cs" />
+    <Compile Include="Entidades\Genero.cs" />
+    <Compile Include="Entidades\MaterialDiscografico.cs" />
+    <Compile Include="Entidades\TipoMaterialDiscografico.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="automoviles\" />
-    <Folder Include="builders\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
