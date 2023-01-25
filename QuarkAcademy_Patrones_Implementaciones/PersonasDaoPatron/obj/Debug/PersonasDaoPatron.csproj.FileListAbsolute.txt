@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\bin\Debug\PersonasDaoPatron.exe.config
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\bin\Debug\PersonasDaoPatron.exe
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\bin\Debug\PersonasDaoPatron.pdb
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\bin\Debug\PersonasDaoLibrary.dll
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\bin\Debug\PersonasDaoLibrary.pdb
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.Form1.resources
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.Properties.Resources.resources
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.csproj.GenerateResource.cache
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.csproj.CopyComplete
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.exe
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.pdb
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoPatron\obj\Debug\PersonasDaoPatron.csproj.AssemblyReference.cache

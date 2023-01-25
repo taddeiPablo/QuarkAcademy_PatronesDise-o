@@ -1,0 +1,5 @@
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoLibrary\bin\Debug\PersonasDaoLibrary.dll
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoLibrary\bin\Debug\PersonasDaoLibrary.pdb
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoLibrary\obj\Debug\PersonasDaoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoLibrary\obj\Debug\PersonasDaoLibrary.dll
+C:\Users\Pablo\Documents\terminar\terminar este patron\QuarkAcademy_Patrones_Implementaciones\PersonasDaoLibrary\obj\Debug\PersonasDaoLibrary.pdb
