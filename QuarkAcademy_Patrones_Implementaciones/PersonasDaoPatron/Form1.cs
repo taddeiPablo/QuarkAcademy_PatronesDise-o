@@ -39,11 +39,13 @@ namespace PersonasDaoPatron
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-
-            persona = new Persona(txtNombre.Text, txtApellido.Text, Convert.ToInt32(txtId.Text));
-            personDaoImp.registrar(persona);
-            reloadList();
-            MessageBox.Show("SE GUARDO CON EXITO LA PERSONA", "ATENTION");
+            if (!delalista)
+            {
+                persona = new Persona(txtNombre.Text, txtApellido.Text, Convert.ToInt32(txtId.Text));
+                personDaoImp.registrar(persona);
+                reloadList();
+                MessageBox.Show("SE GUARDO CON EXITO LA PERSONA", "ATENTION");
+            }
         }
 
         private void reloadList()
@@ -60,6 +62,7 @@ namespace PersonasDaoPatron
             {
                 persona = new Persona(txtNombre.Text, txtApellido.Text, Convert.ToInt32(txtId.Text));
                 personDaoImp.actualizar(persona);
+                MessageBox.Show("SE ACTUALIZO CON EXITO LA INFORMACION", "ATENTION");
                 reloadList();
             }
         }
@@ -89,8 +92,17 @@ namespace PersonasDaoPatron
             txtNombre.Text = "";
             txtApellido.Text = "";
             txtId.Text = "";
+            MessageBox.Show("SE ELIMINO CON EXITO ", "ATENTION");
             reload = true;
             reloadList();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            txtNombre.Text = "";
+            txtId.Text = "";
+            txtNombre.Text = "";
+            delalista = false;
         }
     }
 }
