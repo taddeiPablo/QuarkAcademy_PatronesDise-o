@@ -3,3 +3,4 @@ C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrone
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ObserverLibrary\obj\Debug\ObserverLibrary.csproj.CoreCompileInputs.cache
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ObserverLibrary\obj\Debug\ObserverLibrary.dll
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ObserverLibrary\obj\Debug\ObserverLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ObserverLibrary\obj\Debug\ObserverLibrary.csproj.AssemblyReference.cache

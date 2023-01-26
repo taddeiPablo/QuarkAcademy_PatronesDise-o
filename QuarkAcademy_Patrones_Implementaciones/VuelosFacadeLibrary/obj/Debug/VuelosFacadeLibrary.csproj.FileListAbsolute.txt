@@ -1,0 +1,11 @@
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\bin\Debug\VuelosFacadeLibrary.dll
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\bin\Debug\VuelosFacadeLibrary.pdb
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.dll
+C:\Users\Pablo\Documents\PD\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\bin\Debug\VuelosFacadeLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\bin\Debug\VuelosFacadeLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\VuelosFacadeLibrary\obj\Debug\VuelosFacadeLibrary.pdb
