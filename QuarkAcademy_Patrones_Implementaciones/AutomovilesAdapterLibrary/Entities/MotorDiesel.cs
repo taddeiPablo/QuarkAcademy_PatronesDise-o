@@ -11,7 +11,7 @@ namespace AutomovilesAdapterLibrary.Entities
     {
         public override void acelerar()
         {
-            Console.WriteLine("acelerando este motor diesel");
+            Console.WriteLine("acelerando el motor diesel");
         }
 
         public override void apagar()

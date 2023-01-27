@@ -18,11 +18,11 @@ namespace AutomovilesAdapterLibrary.Entities
         }
         public void Mover()
         {
-            Console.WriteLine("moviendo el auto");
+            Console.WriteLine("moviendo la unidad");
         }
         public void Parar()
         {
-            Console.WriteLine("frenando");
+            Console.WriteLine("frenando la unidad");
         }
         public void desconectar()
         {
@@ -34,7 +34,7 @@ namespace AutomovilesAdapterLibrary.Entities
         }
         public void enchufar()
         {
-            Console.WriteLine("enchufando al cargador esta unidad");
+            Console.WriteLine("enchufando el cargador de la unidad");
         }
     }
 }

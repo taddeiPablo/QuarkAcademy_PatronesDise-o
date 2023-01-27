@@ -8,3 +8,13 @@ C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrone
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.csproj.CopyComplete
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.exe
 C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.pdb
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\bin\Debug\AutomovilesAdapter.exe.config
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\bin\Debug\AutomovilesAdapter.exe
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\bin\Debug\AutomovilesAdapter.pdb
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\bin\Debug\AutomovilesAdapterLibrary.dll
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\bin\Debug\AutomovilesAdapterLibrary.pdb
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.csproj.CopyComplete
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.exe
+C:\Users\Pablo\Documents\repaso\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\AutomovilesAdapter\obj\Debug\AutomovilesAdapter.pdb
