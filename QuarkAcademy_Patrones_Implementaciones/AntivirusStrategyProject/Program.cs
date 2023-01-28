@@ -14,6 +14,9 @@ namespace AntivirusStrategyProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------");
+            Console.WriteLine("IMPLEMENTANDO EL PATRON STRATEGY");
             Console.WriteLine("aqui veremos el funcionamiento del antivirus simples :");
             Contexto context = new Contexto(new AntivirusSimple());
             context.ejecutar();
@@ -22,7 +25,8 @@ namespace AntivirusStrategyProject
             Contexto context2 = new Contexto(new AntivirusAvanzado());
             context2.ejecutar();
             Console.WriteLine("------------------------------------------------------");
-            Console.ReadLine();
+            Console.WriteLine("------------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }

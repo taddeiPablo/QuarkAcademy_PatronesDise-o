@@ -1,0 +1,10 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\bin\Debug\CuentasBancariasApp.exe.config
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\bin\Debug\CuentasBancariasApp.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\bin\Debug\CuentasBancariasApp.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\bin\Debug\CuentaBancariaCommandLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\bin\Debug\CuentaBancariaCommandLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\obj\Debug\CuentasBancariasApp.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\obj\Debug\CuentasBancariasApp.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\obj\Debug\CuentasBancariasApp.csproj.CopyComplete
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\obj\Debug\CuentasBancariasApp.exe
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CuentasBancariasApp\obj\Debug\CuentasBancariasApp.pdb

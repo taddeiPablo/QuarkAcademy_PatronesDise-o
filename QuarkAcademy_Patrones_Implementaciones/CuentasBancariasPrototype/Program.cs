@@ -14,7 +14,7 @@ namespace CuentasBancariasPrototype
         {
             Console.WriteLine("----------------------------------------------------------------------------");
             Console.WriteLine("----------------------------------------------------------------------------");
-            Console.WriteLine("cuarto ejemplo de patron ( Prototype)");
+            Console.WriteLine("IMPLEMENTACION DEL PATRON ( Prototype)");
             CuentaAHImpl cuenta1 = new CuentaAHImpl("AHORRO");
             cuenta1.Monto = 300;
             Console.WriteLine("valores de esta cuenta original");
@@ -29,12 +29,13 @@ namespace CuentasBancariasPrototype
             Console.WriteLine("cuenta 1");
             Console.WriteLine(cuenta1.Tipo);
             Console.WriteLine(cuenta1.Monto);
-            Console.WriteLine("----------------------------------------");
+            Console.WriteLine("----------------------------------------------------------------------------");
             Console.WriteLine("cuenta 2");
             Console.WriteLine(cuentaClone.Tipo);
             Console.WriteLine(cuentaClone.Monto);
-            Console.ReadLine();
-
+            Console.WriteLine("----------------------------------------------------------------------------");
+            Console.WriteLine("----------------------------------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }

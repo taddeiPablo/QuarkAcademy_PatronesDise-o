@@ -12,6 +12,8 @@ namespace AppMemento
         static CareTaker caretaker = new CareTaker();
         static void Main(string[] args)
         {
+            Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("--------------------------------------------------------");
             var p = new Persona();
             p.Nombre = "Pepe";
 
@@ -35,6 +37,8 @@ namespace AppMemento
             p.restoreToMemento(m1);
 
             p.restoreToMemento(caretaker.GetMemento(1));
+            Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("--------------------------------------------------------");
             Console.ReadKey();
         }
     }

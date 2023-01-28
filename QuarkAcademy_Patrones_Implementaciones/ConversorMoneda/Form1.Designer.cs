@@ -53,18 +53,20 @@ namespace ConversorMoneda
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(316, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(143, 13);
+            this.label1.Size = new System.Drawing.Size(162, 13);
             this.label1.TabIndex = 0;
             this.label1.Text = "CONVERSOR DE MONEDA";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(291, 46);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(89, 13);
+            this.label2.Size = new System.Drawing.Size(105, 13);
             this.label2.TabIndex = 1;
             this.label2.Text = "Pesos Argentinos";
             // 
@@ -81,6 +83,7 @@ namespace ConversorMoneda
             // 
             this.groupBox1.Controls.Add(this.lblDolar);
             this.groupBox1.Controls.Add(this.label3);
+            this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox1.Location = new System.Drawing.Point(12, 202);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(163, 89);
@@ -91,18 +94,20 @@ namespace ConversorMoneda
             // lblDolar
             // 
             this.lblDolar.AutoSize = true;
-            this.lblDolar.Location = new System.Drawing.Point(6, 61);
+            this.lblDolar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDolar.Location = new System.Drawing.Point(79, 36);
             this.lblDolar.Name = "lblDolar";
-            this.lblDolar.Size = new System.Drawing.Size(31, 13);
+            this.lblDolar.Size = new System.Drawing.Size(35, 13);
             this.lblDolar.TabIndex = 4;
             this.lblDolar.Text = "0000";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(6, 36);
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(36, 36);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(37, 13);
+            this.label3.Size = new System.Drawing.Size(44, 13);
             this.label3.TabIndex = 4;
             this.label3.Text = "Valor :";
             // 
@@ -110,6 +115,7 @@ namespace ConversorMoneda
             // 
             this.groupBox2.Controls.Add(this.lblYen);
             this.groupBox2.Controls.Add(this.label6);
+            this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.Location = new System.Drawing.Point(212, 202);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(163, 89);
@@ -120,18 +126,20 @@ namespace ConversorMoneda
             // lblYen
             // 
             this.lblYen.AutoSize = true;
-            this.lblYen.Location = new System.Drawing.Point(6, 61);
+            this.lblYen.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblYen.Location = new System.Drawing.Point(88, 36);
             this.lblYen.Name = "lblYen";
-            this.lblYen.Size = new System.Drawing.Size(31, 13);
+            this.lblYen.Size = new System.Drawing.Size(35, 13);
             this.lblYen.TabIndex = 4;
             this.lblYen.Text = "0000";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(6, 36);
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Location = new System.Drawing.Point(45, 36);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(37, 13);
+            this.label6.Size = new System.Drawing.Size(44, 13);
             this.label6.TabIndex = 4;
             this.label6.Text = "Valor :";
             // 
@@ -139,6 +147,7 @@ namespace ConversorMoneda
             // 
             this.groupBox3.Controls.Add(this.lblYuan);
             this.groupBox3.Controls.Add(this.label8);
+            this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.Location = new System.Drawing.Point(413, 202);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(163, 89);
@@ -149,18 +158,20 @@ namespace ConversorMoneda
             // lblYuan
             // 
             this.lblYuan.AutoSize = true;
-            this.lblYuan.Location = new System.Drawing.Point(6, 61);
+            this.lblYuan.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblYuan.Location = new System.Drawing.Point(88, 36);
             this.lblYuan.Name = "lblYuan";
-            this.lblYuan.Size = new System.Drawing.Size(31, 13);
+            this.lblYuan.Size = new System.Drawing.Size(35, 13);
             this.lblYuan.TabIndex = 4;
             this.lblYuan.Text = "0000";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(6, 36);
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(45, 36);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(37, 13);
+            this.label8.Size = new System.Drawing.Size(44, 13);
             this.label8.TabIndex = 4;
             this.label8.Text = "Valor :";
             // 
@@ -168,6 +179,7 @@ namespace ConversorMoneda
             // 
             this.groupBox4.Controls.Add(this.lblReal);
             this.groupBox4.Controls.Add(this.label10);
+            this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox4.Location = new System.Drawing.Point(616, 202);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(163, 89);
@@ -178,18 +190,20 @@ namespace ConversorMoneda
             // lblReal
             // 
             this.lblReal.AutoSize = true;
-            this.lblReal.Location = new System.Drawing.Point(6, 61);
+            this.lblReal.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblReal.Location = new System.Drawing.Point(94, 36);
             this.lblReal.Name = "lblReal";
-            this.lblReal.Size = new System.Drawing.Size(31, 13);
+            this.lblReal.Size = new System.Drawing.Size(35, 13);
             this.lblReal.TabIndex = 4;
             this.lblReal.Text = "0000";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(6, 36);
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.Location = new System.Drawing.Point(51, 36);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(37, 13);
+            this.label10.Size = new System.Drawing.Size(44, 13);
             this.label10.TabIndex = 4;
             this.label10.Text = "Valor :";
             // 

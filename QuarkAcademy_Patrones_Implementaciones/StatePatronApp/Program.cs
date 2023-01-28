@@ -10,6 +10,19 @@ namespace StatePatronApp
     {
         static void Main(string[] args)
         {
+            Switch _switch = new Switch();
+            Console.WriteLine("Aplicando el patron state");
+            Console.WriteLine("------------------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------------------");
+            _switch.Presionar();
+            _switch.Presionar();
+            _switch.Presionar();
+            _switch.Presionar();
+            _switch.Presionar();
+            _switch.Presionar();
+            Console.WriteLine("------------------------------------------------------------------");
+            Console.WriteLine("------------------------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }

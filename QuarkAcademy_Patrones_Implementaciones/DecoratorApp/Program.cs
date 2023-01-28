@@ -15,7 +15,7 @@ namespace DecoratorApp
         {
             Console.WriteLine("----------------------------------------------------------------------------");
             Console.WriteLine("----------------------------------------------------------------------------");
-            Console.WriteLine("sexto ejemplo de patron ( DECORATOR )");
+            Console.WriteLine("PATRON ( DECORATOR )");
             Circle nuevoCirculo = new Circle();
             Console.WriteLine("color del circulo al comienzo");
             nuevoCirculo.draw();
@@ -33,7 +33,8 @@ namespace DecoratorApp
             bsDecorator.setNewColor("AZUL");
             Console.WriteLine("aqui color cambiado de nuestro cubo");
             bsDecorator.draw();
-            Console.ReadLine();
+            Console.WriteLine("-----------------------------------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }

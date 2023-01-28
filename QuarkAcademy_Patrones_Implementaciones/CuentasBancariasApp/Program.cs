@@ -16,6 +16,9 @@ namespace CuentasBancariasApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("-------------------------------------------------------");
+            Console.WriteLine("IMPLEMENTACION DEL PATRON COMMMAND");
+            Console.WriteLine("-------------------------------------------------------");
             Cuenta micuenta = new Cuenta(1, 5000);
 
             DepositarImp depositarImplementacion = new DepositarImp(micuenta, 1000);
@@ -26,6 +29,9 @@ namespace CuentasBancariasApp
             ivk.recibirOperacion(retirarImplementacion);
 
             ivk.realizarOperaciones();
+
+            Console.WriteLine("--------------------------------------------------------");
+            Console.ReadKey();
         }
     }
 }
