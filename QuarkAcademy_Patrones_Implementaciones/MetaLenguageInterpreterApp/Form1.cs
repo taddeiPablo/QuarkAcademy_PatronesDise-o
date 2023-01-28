@@ -41,5 +41,15 @@ namespace MetaLenguageInterpreterApp
             webBrowser1.Refresh();
             webBrowser1.DocumentText = result;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            richTextBox1.Text = "";
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

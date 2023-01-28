@@ -87,6 +87,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaLenguageInterpreterApp"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaLanguageinterpreterLibrary", "MetaLanguageinterpreterLibrary\MetaLanguageinterpreterLibrary.csproj", "{8E3DBF31-458A-469A-AB6C-2693FB02019D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "state", "state", "{FD607D4C-8510-4B1E-9D0F-B2AD9B7845F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePatronApp", "StatePatronApp\StatePatronApp.csproj", "{980EBE4C-3D5A-4FD4-9273-4EA89E396B24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +209,10 @@ Global
 		{8E3DBF31-458A-469A-AB6C-2693FB02019D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E3DBF31-458A-469A-AB6C-2693FB02019D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E3DBF31-458A-469A-AB6C-2693FB02019D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980EBE4C-3D5A-4FD4-9273-4EA89E396B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980EBE4C-3D5A-4FD4-9273-4EA89E396B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980EBE4C-3D5A-4FD4-9273-4EA89E396B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980EBE4C-3D5A-4FD4-9273-4EA89E396B24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -238,6 +246,7 @@ Global
 		{DE85500A-B43A-4963-A3B1-D2C29285A46B} = {CFDE2E12-85BF-48DF-8A4E-7DD30F5B7013}
 		{C562C618-730D-439A-A533-E1226B19BBC0} = {DA7F7F72-9D53-4F30-98E2-768BA4A69A55}
 		{8E3DBF31-458A-469A-AB6C-2693FB02019D} = {DA7F7F72-9D53-4F30-98E2-768BA4A69A55}
+		{980EBE4C-3D5A-4FD4-9273-4EA89E396B24} = {FD607D4C-8510-4B1E-9D0F-B2AD9B7845F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F970FA5B-DC59-4424-B546-BFF1F2778F48}
