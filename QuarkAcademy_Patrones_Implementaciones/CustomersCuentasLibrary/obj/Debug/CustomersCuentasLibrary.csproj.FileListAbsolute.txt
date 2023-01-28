@@ -1,0 +1,5 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CustomersCuentasLibrary\bin\Debug\CustomersCuentasLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CustomersCuentasLibrary\bin\Debug\CustomersCuentasLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CustomersCuentasLibrary\obj\Debug\CustomersCuentasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CustomersCuentasLibrary\obj\Debug\CustomersCuentasLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\CustomersCuentasLibrary\obj\Debug\CustomersCuentasLibrary.pdb

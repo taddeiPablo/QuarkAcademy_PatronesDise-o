@@ -1,0 +1,9 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\bin\Debug\ProxyCustomersLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\bin\Debug\ProxyCustomersLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\bin\Debug\CustomersCuentasLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\bin\Debug\CustomersCuentasLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\obj\Debug\ProxyCustomersLibrary.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\obj\Debug\ProxyCustomersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\obj\Debug\ProxyCustomersLibrary.csproj.CopyComplete
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\obj\Debug\ProxyCustomersLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\ProxyCustomersLibrary\obj\Debug\ProxyCustomersLibrary.pdb

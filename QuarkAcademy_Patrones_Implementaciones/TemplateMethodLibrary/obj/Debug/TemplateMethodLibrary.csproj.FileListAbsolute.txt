@@ -1,0 +1,6 @@
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\bin\Debug\TemplateMethodLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\bin\Debug\TemplateMethodLibrary.pdb
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\obj\Debug\TemplateMethodLibrary.csproj.AssemblyReference.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\obj\Debug\TemplateMethodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\obj\Debug\TemplateMethodLibrary.dll
+C:\Users\pablo\Documents\GitHub\QuarkAcademy_PatronesDise-o\QuarkAcademy_Patrones_Implementaciones\TemplateMethodLibrary\obj\Debug\TemplateMethodLibrary.pdb
