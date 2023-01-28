@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod_CreditosBanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodLibrary", "TemplateMethodLibrary\TemplateMethodLibrary.csproj", "{BA50E64B-022B-4BBA-9B73-77B405B6E36D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateLibrary", "StateLibrary\StateLibrary.csproj", "{3CFA65CE-2011-4E67-8662-852EE630E9A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -261,6 +263,10 @@ Global
 		{BA50E64B-022B-4BBA-9B73-77B405B6E36D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA50E64B-022B-4BBA-9B73-77B405B6E36D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA50E64B-022B-4BBA-9B73-77B405B6E36D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFA65CE-2011-4E67-8662-852EE630E9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFA65CE-2011-4E67-8662-852EE630E9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFA65CE-2011-4E67-8662-852EE630E9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFA65CE-2011-4E67-8662-852EE630E9A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -302,6 +308,7 @@ Global
 		{BA126728-0BDB-4B54-853A-3E5299197ED9} = {A2C93847-6E0F-461B-8B34-8BBF1D0AA679}
 		{BEADCF79-A6C8-4BA8-8681-DE7C072C39EF} = {6D00BEEA-8AB0-424E-AC8B-60C3FB10743C}
 		{BA50E64B-022B-4BBA-9B73-77B405B6E36D} = {6D00BEEA-8AB0-424E-AC8B-60C3FB10743C}
+		{3CFA65CE-2011-4E67-8662-852EE630E9A9} = {FD607D4C-8510-4B1E-9D0F-B2AD9B7845F8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F970FA5B-DC59-4424-B546-BFF1F2778F48}

@@ -4,18 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StatePatronApp
+namespace StateLibrary
 {
-    public class Encendido : Estado
+    public class StandBy : Estado
     {
         public override void ControlarEstado(Switch sw)
         {
-            sw.DefinirEstado(new Apagado());
+            sw.DefinirEstado(new Encendido());
         }
 
         public override string Describir()
         {
-            return "Switch encendido";
+            return "Switch en stand by";
         }
     }
 }
