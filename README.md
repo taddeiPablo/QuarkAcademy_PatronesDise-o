@@ -1,8 +1,8 @@
 # QuarkAcademy_PatronesDiseño
 repositorio con ejemplos practicos sobre los patrones de diseño visto
  aqui les dejo una lista de todos los Patrones de diseño implementados en sensillos ejemplos.
- **Aclaracion los diferentes proyectos fueron separados en su mayoria en dos proyectos la aplicaciones final> y una 
- libreria de clases> en la cual se implementan los patrones.
+ **Aclaracion los diferentes proyectos fueron separados en su mayoria en dos proyectos la aplicaciones final y una 
+ libreria de clases en la cual se implementan los patrones.
  
  # Lista de Patrones Utilizados : 
  1. Abstract Factory. (Descripcion : se creo una fabrica de muebles.) tipo de app WinForm.
